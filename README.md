@@ -13,9 +13,9 @@ A simple browser made in Python, featuring:
 
 # To Do
 
-- Bookmarks  
-- Animations / responsive UI  
-- Saving logins  
-- Polish UI
-- Themes
-- Linux release
+- [ ] Bookmarks  
+- [ ] Animations / responsive UI  
+- [ ] Saving logins  
+- [ ] Polish UI
+- [ ] Themes
+- [ ] Linux release
