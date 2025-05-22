@@ -4,7 +4,7 @@ A simple browser made in Python, featuring:
 
 - Built-in adblock (kind of)
 - Modern, clean design
-- Search overlay for easy searching
+- Search overlay for easy searching (ctrl + space)
 - Standard keyboard shortcuts
 
 <p align="center">
@@ -16,3 +16,5 @@ A simple browser made in Python, featuring:
 - Bookmarks  
 - Animations / responsive UI  
 - Saving logins  
+- Polish UI
+- Themes
