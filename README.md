@@ -18,3 +18,4 @@ A simple browser made in Python, featuring:
 - Saving logins  
 - Polish UI
 - Themes
+- Linux release
