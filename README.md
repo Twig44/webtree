@@ -1,6 +1,6 @@
 # webtree
 
-A simple browser made in Python, featuring:
+A simple (rudimentary) browser made in Python, featuring:
 
 - Built-in adblock (kind of)
 - Modern, clean design
